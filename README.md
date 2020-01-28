@@ -1,2 +1,2 @@
 # Unity-Programming
-This will be a collection of Games/Applications developed in Unity3D
+Simple 2D game built using the Unity IDE to enhance knowledge of the platform.
